@@ -12,12 +12,15 @@ Funciones Principales:
 -Administración de productos, usuarios y pedidos
 -Estadísticas básicas mediante gráficos
 -Gestión de imágenes y archivos relacionados
+
 Tecnologías Utilizadas:
 -PHP
 -MySQL
 -HTML, CSS y JavaScript
 -Git y GitHub para control de versiones
+
 Estructura del Proyecto:
+
 El proyecto se organiza en carpetas para CSS, scripts, imágenes y archivos subidos, junto con los módulos PHP que permiten las operaciones principales del sistema.
 Propósito Académico:
 Este sistema forma parte de un proyecto final desarrollado con fines educativos, aplicado para reforzar conceptos de programación web, diseño de base de datos y gestión de versiones.

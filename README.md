@@ -9,17 +9,25 @@ El sistema integra módulos básicos de comercio electrónico, como carrito de c
 Funciones Principales:
 
 -Registro e inicio de sesión de usuarios
+
 -Navegación y consulta de productos
+
 -Carrito, lista de deseos y compras
+
 -Administración de productos, usuarios y pedidos
+
 -Estadísticas básicas mediante gráficos
+
 -Gestión de imágenes y archivos relacionados
 
 Tecnologías Utilizadas:
 
 -PHP
+
 -MySQL
+
 -HTML, CSS y JavaScript
+
 -Git y GitHub para control de versiones
 
 Estructura del Proyecto:
